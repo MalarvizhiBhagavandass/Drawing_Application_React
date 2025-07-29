@@ -34,16 +34,9 @@ git clone https://github.com/karuthapandian1994/Drawing_Application.git
 cd Drawing_Application
 
 Install dependencies
-
-bash
-Copy
-Edit
 npm install
 Run the development server
 
-bash
-Copy
-Edit
 npm run dev
 Open your browser at http://localhost:3000 (or as indicated in terminal)
 
@@ -69,7 +62,5 @@ Support more shapes (polygons, curves)
 
 Add load from JSON file functionality
 
-License
-MIT License
 
 Created by karuthapandian1994
