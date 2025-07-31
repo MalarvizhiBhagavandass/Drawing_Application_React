@@ -30,7 +30,8 @@ This is a React-based drawing app that allows users to draw rectangles, circles,
 1. Clone the repository
 
 ```bash
-git clone https://github.com/karuthapandian1994/Drawing_Application.git
+git clone https://github.com/MalarvizhiBhagavandass/Drawing_Application.git
+
 cd Drawing_Application
 
 Install dependencies
@@ -63,4 +64,4 @@ Support more shapes (polygons, curves)
 Add load from JSON file functionality
 
 
-Created by karuthapandian1994
+Created by MalarvizhiBhagavandass
